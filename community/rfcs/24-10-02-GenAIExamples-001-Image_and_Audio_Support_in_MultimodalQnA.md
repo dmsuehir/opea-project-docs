@@ -1,4 +1,4 @@
-# 24-10-02-GenAIExamples-xxx-Image_and_Audio_Support_in_MultimodalQnA
+# 24-10-02-GenAIExamples-001-Image_and_Audio_Support_in_MultimodalQnA
 
 ## Author(s)
 
