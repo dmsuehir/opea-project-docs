@@ -173,7 +173,7 @@ custom labels or captions in the future.
 
 ### Other Enhancements
 
-We can enable the functionality for users to overwrite a dockerfile entry point in such a way that enables a user to pass in and change values of default script arguments for the respective python script. Users can change and interact with these arguments in the `set_env.sh` with environment variables such as `LVM_MODEL` and `BF16` before being officially passed in and overwritten into the dockerfile entry point when building compose.yaml. The purpose of this change is to allow users to utilize more script arguments that currently are hard set to their default values when a container is built.
+We will enable the functionality for users to overwrite a dockerfile entry point in such a way that enables a user to pass in and change values of default script arguments for the respective python script. Users can change and interact with these arguments in the `set_env.sh` with environment variables such as `LVM_MODEL` and `BF16` before being officially passed in and overwritten into the dockerfile entry point when building compose.yaml. The purpose of this change is to allow users to utilize more script arguments that currently are hard set to their default values when a container is built.
 
 ## Alternatives Considered
 
